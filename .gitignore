@@ -1,0 +1,13 @@
+# Runtime data: accounts, sessions, chats. Never commit these.
+data/sangam.db
+data/sangam.db-journal
+*.db
+
+# Secrets
+.env
+
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+Thumbs.db

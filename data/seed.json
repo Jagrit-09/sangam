@@ -1,0 +1,490 @@
+{
+  "events": [
+    {
+      "id": "ev_dtu_founders",
+      "name": "DTU Founders' Week — Live Nights",
+      "type": "college_fest",
+      "genre": "Multi-genre / Battle of Bands",
+      "venue": "DTU Open Air Ground",
+      "area": "Shahbad Daulatpur, Rohini",
+      "lat": 28.75,
+      "lng": 77.1174,
+      "startTime": "18:00",
+      "endTime": "23:00",
+      "description": "DTU's home-ground battle of bands, kicking off Founders' Week with student acts from across Delhi NCR before the headline set.",
+      "venueLayout": "campus",
+      "transit": {
+        "nearestMetro": {
+          "name": "Rithala",
+          "line": "Red Line",
+          "walkMins": 22
+        },
+        "busRoutes": [
+          {
+            "route": "964",
+            "from": "Rithala Metro Station"
+          },
+          {
+            "route": "231",
+            "from": "Rohini Sector 9"
+          }
+        ],
+        "autoFare": {
+          "min": 60,
+          "max": 100
+        },
+        "cabFare": {
+          "min": 130,
+          "max": 220
+        }
+      },
+      "daysFromNow": 4
+    },
+    {
+      "id": "ev_northcampus_wavelength",
+      "name": "Wavelength — North Campus Fest",
+      "type": "college_fest",
+      "genre": "Indie / Pop",
+      "venue": "North Campus Grounds",
+      "area": "North Campus, Delhi",
+      "lat": 28.687,
+      "lng": 77.21,
+      "startTime": "17:00",
+      "endTime": "22:00",
+      "description": "An evening of indie and pop acts closing out a week of college fest events across North Campus.",
+      "venueLayout": "campus",
+      "transit": {
+        "nearestMetro": {
+          "name": "Vishwavidyalaya",
+          "line": "Yellow Line",
+          "walkMins": 12
+        },
+        "busRoutes": [
+          {
+            "route": "212",
+            "from": "Vishwavidyalaya Metro Station"
+          },
+          {
+            "route": "543",
+            "from": "GTB Nagar"
+          }
+        ],
+        "autoFare": {
+          "min": 40,
+          "max": 70
+        },
+        "cabFare": {
+          "min": 100,
+          "max": 160
+        }
+      },
+      "daysFromNow": 9
+    },
+    {
+      "id": "ev_dusk_bass",
+      "name": "Dusk & Bass — Rooftop Sessions",
+      "type": "small_gig",
+      "genre": "Electronic / Indie",
+      "venue": "Rooftop Sessions Venue",
+      "area": "Hauz Khas Village",
+      "lat": 28.5535,
+      "lng": 77.2005,
+      "startTime": "19:00",
+      "endTime": "22:00",
+      "description": "A small rooftop lineup of local electronic and indie acts as the sun goes down over Hauz Khas.",
+      "venueLayout": "campus",
+      "transit": {
+        "nearestMetro": {
+          "name": "Hauz Khas",
+          "line": "Yellow / Magenta Line",
+          "walkMins": 10
+        },
+        "busRoutes": [
+          {
+            "route": "534",
+            "from": "Hauz Khas Metro Station"
+          }
+        ],
+        "autoFare": {
+          "min": 30,
+          "max": 60
+        },
+        "cabFare": {
+          "min": 90,
+          "max": 150
+        }
+      },
+      "daysFromNow": 14
+    },
+    {
+      "id": "ev_unplugged_basement",
+      "name": "Unplugged at the Basement",
+      "type": "small_gig",
+      "genre": "Acoustic / Singer-Songwriter",
+      "venue": "The Basement Room",
+      "area": "Safdarjung Enclave",
+      "lat": 28.565,
+      "lng": 77.202,
+      "startTime": "20:00",
+      "endTime": "23:00",
+      "description": "Stripped-down acoustic sets in a small room — three singer-songwriters, no amps, just voices and strings.",
+      "venueLayout": "campus",
+      "transit": {
+        "nearestMetro": {
+          "name": "Green Park",
+          "line": "Yellow Line",
+          "walkMins": 15
+        },
+        "busRoutes": [
+          {
+            "route": "615",
+            "from": "Green Park Metro Station"
+          }
+        ],
+        "autoFare": {
+          "min": 30,
+          "max": 60
+        },
+        "cabFare": {
+          "min": 90,
+          "max": 150
+        }
+      },
+      "daysFromNow": 21
+    },
+    {
+      "id": "ev_highway_static",
+      "name": "Highway Static: Rock Under the Stars",
+      "type": "major_concert",
+      "genre": "Rock",
+      "venue": "Jawaharlal Nehru Stadium",
+      "area": "Lodhi Road",
+      "lat": 28.5822,
+      "lng": 77.2335,
+      "startTime": "18:00",
+      "endTime": "23:00",
+      "description": "Highway Static headline a full stadium rock night, with two supporting acts opening the evening.",
+      "venueLayout": "large",
+      "transit": {
+        "nearestMetro": {
+          "name": "JLN Stadium",
+          "line": "Violet Line",
+          "walkMins": 8
+        },
+        "busRoutes": [
+          {
+            "route": "419",
+            "from": "JLN Stadium Metro Station"
+          },
+          {
+            "route": "764",
+            "from": "Lodhi Road"
+          }
+        ],
+        "autoFare": {
+          "min": 50,
+          "max": 90
+        },
+        "cabFare": {
+          "min": 120,
+          "max": 200
+        }
+      },
+      "daysFromNow": 33
+    },
+    {
+      "id": "ev_bassline_delhi",
+      "name": "Bassline Delhi Festival",
+      "type": "major_concert",
+      "genre": "EDM / Electronic",
+      "venue": "Thyagaraj Sports Complex",
+      "area": "INA",
+      "lat": 28.5729,
+      "lng": 77.22,
+      "startTime": "16:00",
+      "endTime": "01:00",
+      "description": "Delhi's biggest electronic lineup of the season across two stages, running well past midnight.",
+      "venueLayout": "large",
+      "transit": {
+        "nearestMetro": {
+          "name": "INA",
+          "line": "Yellow / Pink Line",
+          "walkMins": 14
+        },
+        "busRoutes": [
+          {
+            "route": "764",
+            "from": "INA Metro Station"
+          },
+          {
+            "route": "620",
+            "from": "Safdarjung"
+          }
+        ],
+        "autoFare": {
+          "min": 50,
+          "max": 90
+        },
+        "cabFare": {
+          "min": 120,
+          "max": 200
+        }
+      },
+      "daysFromNow": 48
+    },
+    {
+      "id": "ev_ragas_reverb",
+      "name": "Ragas & Reverb: Fusion Night",
+      "type": "major_concert",
+      "genre": "Classical Fusion",
+      "venue": "Indira Gandhi Arena",
+      "area": "ITO",
+      "lat": 28.6304,
+      "lng": 77.241,
+      "startTime": "18:30",
+      "endTime": "22:00",
+      "description": "Kavya Sur & The Tabla Collective blend Hindustani classical roots with a modern reverb-heavy sound.",
+      "venueLayout": "large",
+      "transit": {
+        "nearestMetro": {
+          "name": "ITO",
+          "line": "Violet Line",
+          "walkMins": 10
+        },
+        "busRoutes": [
+          {
+            "route": "331",
+            "from": "ITO Metro Station"
+          }
+        ],
+        "autoFare": {
+          "min": 40,
+          "max": 80
+        },
+        "cabFare": {
+          "min": 110,
+          "max": 180
+        }
+      },
+      "daysFromNow": 64
+    }
+  ],
+  "users": [
+    {
+      "id": "u_aditi",
+      "name": "Aditi Verma",
+      "age": 21,
+      "bio": "Front-row or nowhere. Here for the bassline.",
+      "interests": [
+        "EDM",
+        "Photography"
+      ],
+      "initials": "AV",
+      "color": "#FFB627",
+      "attendingEventIds": [
+        "ev_bassline_delhi",
+        "ev_dusk_bass"
+      ],
+      "demo": true
+    },
+    {
+      "id": "u_rohan",
+      "name": "Rohan Malhotra",
+      "age": 22,
+      "bio": "Guitar in one hand, chai in the other.",
+      "interests": [
+        "Rock",
+        "Acoustic"
+      ],
+      "initials": "RM",
+      "color": "#47E0D2",
+      "attendingEventIds": [
+        "ev_highway_static",
+        "ev_unplugged_basement"
+      ],
+      "demo": true
+    },
+    {
+      "id": "u_simran",
+      "name": "Simran Kaur",
+      "age": 20,
+      "bio": "Solo traveller, professional stranger-befriender.",
+      "interests": [
+        "Indie",
+        "Travel"
+      ],
+      "initials": "SK",
+      "color": "#FF5FA8",
+      "attendingEventIds": [
+        "ev_northcampus_wavelength",
+        "ev_dusk_bass"
+      ],
+      "demo": true
+    },
+    {
+      "id": "u_aryan",
+      "name": "Aryan Kapoor",
+      "age": 23,
+      "bio": "Will trade concert tickets for good conversation.",
+      "interests": [
+        "EDM",
+        "Gaming"
+      ],
+      "initials": "AK",
+      "color": "#8C7CFF",
+      "attendingEventIds": [
+        "ev_bassline_delhi",
+        "ev_highway_static"
+      ],
+      "demo": true
+    },
+    {
+      "id": "u_meher",
+      "name": "Meher Chadha",
+      "age": 21,
+      "bio": "Classical roots, modern chaos.",
+      "interests": [
+        "Classical Fusion",
+        "Poetry"
+      ],
+      "initials": "MC",
+      "color": "#6FCF7A",
+      "attendingEventIds": [
+        "ev_ragas_reverb",
+        "ev_northcampus_wavelength"
+      ],
+      "demo": true
+    },
+    {
+      "id": "u_veer",
+      "name": "Veer Rathore",
+      "age": 24,
+      "bio": "Third row, camera ready.",
+      "interests": [
+        "Rock",
+        "Photography"
+      ],
+      "initials": "VR",
+      "color": "#FF8A5B",
+      "attendingEventIds": [
+        "ev_highway_static",
+        "ev_bassline_delhi"
+      ],
+      "demo": true
+    },
+    {
+      "id": "u_ishita",
+      "name": "Ishita Bhatt",
+      "age": 19,
+      "bio": "First fest, first metro ride alone, let's go.",
+      "interests": [
+        "Indie",
+        "Pop"
+      ],
+      "initials": "IB",
+      "color": "#FFB627",
+      "attendingEventIds": [
+        "ev_dtu_founders",
+        "ev_northcampus_wavelength"
+      ],
+      "demo": true
+    },
+    {
+      "id": "u_devansh",
+      "name": "Devansh Oberoi",
+      "age": 22,
+      "bio": "Bass drops harder than my GPA.",
+      "interests": [
+        "EDM"
+      ],
+      "initials": "DO",
+      "color": "#47E0D2",
+      "attendingEventIds": [
+        "ev_bassline_delhi"
+      ],
+      "demo": true
+    },
+    {
+      "id": "u_naina",
+      "name": "Naina Sethi",
+      "age": 20,
+      "bio": "Here for the fusion, staying for the friends.",
+      "interests": [
+        "Classical Fusion",
+        "Dance"
+      ],
+      "initials": "NS",
+      "color": "#FF5FA8",
+      "attendingEventIds": [
+        "ev_ragas_reverb"
+      ],
+      "demo": true
+    },
+    {
+      "id": "u_yash",
+      "name": "Yash Trivedi",
+      "age": 23,
+      "bio": "Mosh pit philosopher.",
+      "interests": [
+        "Rock",
+        "Philosophy"
+      ],
+      "initials": "YT",
+      "color": "#8C7CFF",
+      "attendingEventIds": [
+        "ev_highway_static"
+      ],
+      "demo": true
+    },
+    {
+      "id": "u_priya",
+      "name": "Priya Nambiar",
+      "age": 21,
+      "bio": "Acoustic sets and long walks to the metro.",
+      "interests": [
+        "Acoustic",
+        "Poetry"
+      ],
+      "initials": "PN",
+      "color": "#6FCF7A",
+      "attendingEventIds": [
+        "ev_unplugged_basement",
+        "ev_dusk_bass"
+      ],
+      "demo": true
+    },
+    {
+      "id": "u_arjun",
+      "name": "Arjun Deshmukh",
+      "age": 22,
+      "bio": "DTU '24. Will attend any fest for free entry.",
+      "interests": [
+        "Multi-genre",
+        "Coding"
+      ],
+      "initials": "AD",
+      "color": "#FF8A5B",
+      "attendingEventIds": [
+        "ev_dtu_founders"
+      ],
+      "demo": true
+    },
+    {
+      "id": "u_zara",
+      "name": "Zara Khan",
+      "age": 20,
+      "bio": "Camera girl, fest hopper.",
+      "interests": [
+        "Photography",
+        "Indie"
+      ],
+      "initials": "ZK",
+      "color": "#FFB627",
+      "attendingEventIds": [
+        "ev_dtu_founders",
+        "ev_northcampus_wavelength"
+      ],
+      "demo": true
+    }
+  ]
+}

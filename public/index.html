@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Sangam — find the show, find your people</title>
+<meta name="description" content="Delhi NCR concerts and college fests, travel buddies for solo-goers, and a live ground map for the day of the show." />
+
+<!-- fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet" />
+
+<!-- Leaflet (maps) -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+<link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+
+<header class="top-bar">
+  <a href="#/" class="brand">
+    <span class="brand-mark" aria-hidden="true"></span>
+    Sangam
+  </a>
+  <nav class="top-nav" aria-label="Primary">
+    <a href="#/">Events</a>
+    <a href="#/add-event">+ Post event</a>
+    <a href="#/matches">Matches</a>
+    <div id="auth-area" class="auth-area"></div>
+  </nav>
+</header>
+
+<main id="app" role="main"></main>
+
+<footer class="site-footer">
+  <p id="footer-note">Events are posted by the community. Fares and metro info are estimates. Stay safe and meet in public places.</p>
+</footer>
+
+<div id="toast-root" aria-live="polite"></div>
+
+<!-- Leaflet JS -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<script src="/js/api.js"></script>
+<script src="/js/state.js"></script>
+<script src="/js/router.js"></script>
+<script src="/js/views/auth.js"></script>
+<script src="/js/views/onboarding.js"></script>
+<script src="/js/views/addEvent.js"></script>
+<script src="/js/views/chat.js"></script>
+<script src="/js/views/events.js"></script>
+<script src="/js/views/eventDetail.js"></script>
+<script src="/js/views/swipe.js"></script>
+<script src="/js/views/matches.js"></script>
+<script src="/js/views/venueMap.js"></script>
+<script src="/js/app.js"></script>
+</body>
+</html>

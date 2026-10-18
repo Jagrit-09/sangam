@@ -1,0 +1,804 @@
+{
+ "approximate": true,
+ "stations": [
+  {
+   "id": "samaypur-badli",
+   "name": "Samaypur Badli",
+   "lines": [
+    "Yellow"
+   ],
+   "lat": 28.7447,
+   "lng": 77.1387
+  },
+  {
+   "id": "jahangirpuri",
+   "name": "Jahangirpuri",
+   "lines": [
+    "Yellow"
+   ],
+   "lat": 28.7258,
+   "lng": 77.1627
+  },
+  {
+   "id": "adarsh-nagar",
+   "name": "Adarsh Nagar",
+   "lines": [
+    "Yellow"
+   ],
+   "lat": 28.716,
+   "lng": 77.17
+  },
+  {
+   "id": "azadpur",
+   "name": "Azadpur",
+   "lines": [
+    "Yellow",
+    "Pink"
+   ],
+   "lat": 28.707,
+   "lng": 77.176
+  },
+  {
+   "id": "model-town",
+   "name": "Model Town",
+   "lines": [
+    "Yellow"
+   ],
+   "lat": 28.716,
+   "lng": 77.189
+  },
+  {
+   "id": "gtb-nagar",
+   "name": "GTB Nagar",
+   "lines": [
+    "Yellow"
+   ],
+   "lat": 28.697,
+   "lng": 77.207
+  },
+  {
+   "id": "vishwavidyalaya",
+   "name": "Vishwavidyalaya",
+   "lines": [
+    "Yellow"
+   ],
+   "lat": 28.6955,
+   "lng": 77.2128
+  },
+  {
+   "id": "civil-lines",
+   "name": "Civil Lines",
+   "lines": [
+    "Yellow"
+   ],
+   "lat": 28.677,
+   "lng": 77.225
+  },
+  {
+   "id": "kashmere-gate",
+   "name": "Kashmere Gate",
+   "lines": [
+    "Yellow",
+    "Red",
+    "Violet"
+   ],
+   "lat": 28.6675,
+   "lng": 77.2282
+  },
+  {
+   "id": "chandni-chowk",
+   "name": "Chandni Chowk",
+   "lines": [
+    "Yellow"
+   ],
+   "lat": 28.658,
+   "lng": 77.23
+  },
+  {
+   "id": "chawri-bazar",
+   "name": "Chawri Bazar",
+   "lines": [
+    "Yellow"
+   ],
+   "lat": 28.649,
+   "lng": 77.227
+  },
+  {
+   "id": "new-delhi",
+   "name": "New Delhi",
+   "lines": [
+    "Yellow",
+    "Orange"
+   ],
+   "lat": 28.6425,
+   "lng": 77.222
+  },
+  {
+   "id": "rajiv-chowk",
+   "name": "Rajiv Chowk",
+   "lines": [
+    "Yellow",
+    "Blue"
+   ],
+   "lat": 28.6328,
+   "lng": 77.2195
+  },
+  {
+   "id": "patel-chowk",
+   "name": "Patel Chowk",
+   "lines": [
+    "Yellow"
+   ],
+   "lat": 28.623,
+   "lng": 77.214
+  },
+  {
+   "id": "central-secretariat",
+   "name": "Central Secretariat",
+   "lines": [
+    "Yellow",
+    "Violet"
+   ],
+   "lat": 28.615,
+   "lng": 77.212
+  },
+  {
+   "id": "udyog-bhawan",
+   "name": "Udyog Bhawan",
+   "lines": [
+    "Yellow"
+   ],
+   "lat": 28.611,
+   "lng": 77.212
+  },
+  {
+   "id": "lok-kalyan-marg",
+   "name": "Lok Kalyan Marg",
+   "lines": [
+    "Yellow"
+   ],
+   "lat": 28.592,
+   "lng": 77.211
+  },
+  {
+   "id": "jor-bagh",
+   "name": "Jor Bagh",
+   "lines": [
+    "Yellow"
+   ],
+   "lat": 28.587,
+   "lng": 77.212
+  },
+  {
+   "id": "ina",
+   "name": "INA",
+   "lines": [
+    "Yellow",
+    "Pink"
+   ],
+   "lat": 28.575,
+   "lng": 77.21
+  },
+  {
+   "id": "aiims",
+   "name": "AIIMS",
+   "lines": [
+    "Yellow"
+   ],
+   "lat": 28.567,
+   "lng": 77.21
+  },
+  {
+   "id": "green-park",
+   "name": "Green Park",
+   "lines": [
+    "Yellow"
+   ],
+   "lat": 28.559,
+   "lng": 77.207
+  },
+  {
+   "id": "hauz-khas",
+   "name": "Hauz Khas",
+   "lines": [
+    "Yellow",
+    "Magenta"
+   ],
+   "lat": 28.5434,
+   "lng": 77.2066
+  },
+  {
+   "id": "malviya-nagar",
+   "name": "Malviya Nagar",
+   "lines": [
+    "Yellow"
+   ],
+   "lat": 28.528,
+   "lng": 77.206
+  },
+  {
+   "id": "saket",
+   "name": "Saket",
+   "lines": [
+    "Yellow"
+   ],
+   "lat": 28.52,
+   "lng": 77.201
+  },
+  {
+   "id": "qutub-minar",
+   "name": "Qutub Minar",
+   "lines": [
+    "Yellow"
+   ],
+   "lat": 28.513,
+   "lng": 77.186
+  },
+  {
+   "id": "chhatarpur",
+   "name": "Chhatarpur",
+   "lines": [
+    "Yellow"
+   ],
+   "lat": 28.506,
+   "lng": 77.175
+  },
+  {
+   "id": "mg-road",
+   "name": "MG Road",
+   "lines": [
+    "Yellow"
+   ],
+   "lat": 28.48,
+   "lng": 77.08
+  },
+  {
+   "id": "iffco-chowk",
+   "name": "IFFCO Chowk",
+   "lines": [
+    "Yellow"
+   ],
+   "lat": 28.472,
+   "lng": 77.072
+  },
+  {
+   "id": "huda-city-centre",
+   "name": "HUDA City Centre",
+   "lines": [
+    "Yellow"
+   ],
+   "lat": 28.459,
+   "lng": 77.0728
+  },
+  {
+   "id": "dwarka-sector-21",
+   "name": "Dwarka Sector 21",
+   "lines": [
+    "Blue",
+    "Orange"
+   ],
+   "lat": 28.552,
+   "lng": 77.058
+  },
+  {
+   "id": "dwarka",
+   "name": "Dwarka",
+   "lines": [
+    "Blue"
+   ],
+   "lat": 28.619,
+   "lng": 77.043
+  },
+  {
+   "id": "janakpuri-west",
+   "name": "Janakpuri West",
+   "lines": [
+    "Blue",
+    "Magenta"
+   ],
+   "lat": 28.629,
+   "lng": 77.078
+  },
+  {
+   "id": "rajouri-garden",
+   "name": "Rajouri Garden",
+   "lines": [
+    "Blue"
+   ],
+   "lat": 28.649,
+   "lng": 77.122
+  },
+  {
+   "id": "kirti-nagar",
+   "name": "Kirti Nagar",
+   "lines": [
+    "Blue",
+    "Green"
+   ],
+   "lat": 28.656,
+   "lng": 77.143
+  },
+  {
+   "id": "karol-bagh",
+   "name": "Karol Bagh",
+   "lines": [
+    "Blue"
+   ],
+   "lat": 28.644,
+   "lng": 77.188
+  },
+  {
+   "id": "barakhamba-road",
+   "name": "Barakhamba Road",
+   "lines": [
+    "Blue"
+   ],
+   "lat": 28.63,
+   "lng": 77.225
+  },
+  {
+   "id": "mandi-house",
+   "name": "Mandi House",
+   "lines": [
+    "Blue",
+    "Violet"
+   ],
+   "lat": 28.626,
+   "lng": 77.234
+  },
+  {
+   "id": "pragati-maidan",
+   "name": "Pragati Maidan",
+   "lines": [
+    "Blue"
+   ],
+   "lat": 28.622,
+   "lng": 77.243
+  },
+  {
+   "id": "yamuna-bank",
+   "name": "Yamuna Bank",
+   "lines": [
+    "Blue"
+   ],
+   "lat": 28.623,
+   "lng": 77.268
+  },
+  {
+   "id": "laxmi-nagar",
+   "name": "Laxmi Nagar",
+   "lines": [
+    "Blue"
+   ],
+   "lat": 28.63,
+   "lng": 77.277
+  },
+  {
+   "id": "anand-vihar-isbt",
+   "name": "Anand Vihar ISBT",
+   "lines": [
+    "Blue",
+    "Pink"
+   ],
+   "lat": 28.646,
+   "lng": 77.315
+  },
+  {
+   "id": "vaishali",
+   "name": "Vaishali",
+   "lines": [
+    "Blue"
+   ],
+   "lat": 28.65,
+   "lng": 77.34
+  },
+  {
+   "id": "noida-sector-18",
+   "name": "Noida Sector 18",
+   "lines": [
+    "Blue"
+   ],
+   "lat": 28.57,
+   "lng": 77.326
+  },
+  {
+   "id": "botanical-garden",
+   "name": "Botanical Garden",
+   "lines": [
+    "Blue",
+    "Magenta"
+   ],
+   "lat": 28.564,
+   "lng": 77.334
+  },
+  {
+   "id": "noida-city-centre",
+   "name": "Noida City Centre",
+   "lines": [
+    "Blue"
+   ],
+   "lat": 28.5745,
+   "lng": 77.356
+  },
+  {
+   "id": "rithala",
+   "name": "Rithala",
+   "lines": [
+    "Red"
+   ],
+   "lat": 28.721,
+   "lng": 77.107
+  },
+  {
+   "id": "rohini-west",
+   "name": "Rohini West",
+   "lines": [
+    "Red"
+   ],
+   "lat": 28.715,
+   "lng": 77.117
+  },
+  {
+   "id": "pitampura",
+   "name": "Pitampura",
+   "lines": [
+    "Red"
+   ],
+   "lat": 28.699,
+   "lng": 77.132
+  },
+  {
+   "id": "netaji-subhash-place",
+   "name": "Netaji Subhash Place",
+   "lines": [
+    "Red",
+    "Pink"
+   ],
+   "lat": 28.696,
+   "lng": 77.152
+  },
+  {
+   "id": "shastri-park",
+   "name": "Shastri Park",
+   "lines": [
+    "Red"
+   ],
+   "lat": 28.669,
+   "lng": 77.249
+  },
+  {
+   "id": "welcome",
+   "name": "Welcome",
+   "lines": [
+    "Red",
+    "Pink"
+   ],
+   "lat": 28.671,
+   "lng": 77.279
+  },
+  {
+   "id": "dilshad-garden",
+   "name": "Dilshad Garden",
+   "lines": [
+    "Red"
+   ],
+   "lat": 28.676,
+   "lng": 77.321
+  },
+  {
+   "id": "lal-qila",
+   "name": "Lal Qila",
+   "lines": [
+    "Violet"
+   ],
+   "lat": 28.656,
+   "lng": 77.24
+  },
+  {
+   "id": "ito",
+   "name": "ITO",
+   "lines": [
+    "Violet"
+   ],
+   "lat": 28.628,
+   "lng": 77.241
+  },
+  {
+   "id": "jawaharlal-nehru-stadium",
+   "name": "Jawaharlal Nehru Stadium",
+   "lines": [
+    "Violet"
+   ],
+   "lat": 28.59,
+   "lng": 77.234
+  },
+  {
+   "id": "lajpat-nagar",
+   "name": "Lajpat Nagar",
+   "lines": [
+    "Violet",
+    "Pink"
+   ],
+   "lat": 28.57,
+   "lng": 77.243
+  },
+  {
+   "id": "nehru-place",
+   "name": "Nehru Place",
+   "lines": [
+    "Violet"
+   ],
+   "lat": 28.549,
+   "lng": 77.253
+  },
+  {
+   "id": "kalkaji-mandir",
+   "name": "Kalkaji Mandir",
+   "lines": [
+    "Violet",
+    "Magenta"
+   ],
+   "lat": 28.54,
+   "lng": 77.259
+  },
+  {
+   "id": "jasola-apollo",
+   "name": "Jasola Apollo",
+   "lines": [
+    "Violet"
+   ],
+   "lat": 28.538,
+   "lng": 77.282
+  },
+  {
+   "id": "sarita-vihar",
+   "name": "Sarita Vihar",
+   "lines": [
+    "Violet"
+   ],
+   "lat": 28.529,
+   "lng": 77.289
+  },
+  {
+   "id": "badarpur-border",
+   "name": "Badarpur Border",
+   "lines": [
+    "Violet"
+   ],
+   "lat": 28.49,
+   "lng": 77.303
+  },
+  {
+   "id": "sarojini-nagar",
+   "name": "Sarojini Nagar",
+   "lines": [
+    "Pink"
+   ],
+   "lat": 28.577,
+   "lng": 77.198
+  },
+  {
+   "id": "dhaula-kuan",
+   "name": "Dhaula Kuan",
+   "lines": [
+    "Pink",
+    "Orange"
+   ],
+   "lat": 28.592,
+   "lng": 77.161
+  },
+  {
+   "id": "punjabi-bagh-west",
+   "name": "Punjabi Bagh West",
+   "lines": [
+    "Pink"
+   ],
+   "lat": 28.667,
+   "lng": 77.123
+  },
+  {
+   "id": "mayur-vihar-pocket-1",
+   "name": "Mayur Vihar Pocket 1",
+   "lines": [
+    "Pink"
+   ],
+   "lat": 28.605,
+   "lng": 77.3
+  },
+  {
+   "id": "okhla-nsic",
+   "name": "Okhla NSIC",
+   "lines": [
+    "Magenta"
+   ],
+   "lat": 28.554,
+   "lng": 77.264
+  },
+  {
+   "id": "jamia-millia-islamia",
+   "name": "Jamia Millia Islamia",
+   "lines": [
+    "Magenta"
+   ],
+   "lat": 28.559,
+   "lng": 77.285
+  },
+  {
+   "id": "shivaji-stadium",
+   "name": "Shivaji Stadium",
+   "lines": [
+    "Orange"
+   ],
+   "lat": 28.629,
+   "lng": 77.212
+  },
+  {
+   "id": "delhi-aerocity",
+   "name": "Delhi Aerocity",
+   "lines": [
+    "Orange"
+   ],
+   "lat": 28.548,
+   "lng": 77.121
+  },
+  {
+   "id": "igi-airport-t3",
+   "name": "IGI Airport T3",
+   "lines": [
+    "Orange"
+   ],
+   "lat": 28.556,
+   "lng": 77.12
+  },
+  {
+   "id": "sikandarpur",
+   "name": "Sikandarpur",
+   "lines": [
+    "Yellow",
+    "Rapid"
+   ],
+   "lat": 28.481,
+   "lng": 77.093
+  },
+  {
+   "id": "phase-3-cyber-city",
+   "name": "Phase 3 (Cyber City)",
+   "lines": [
+    "Rapid"
+   ],
+   "lat": 28.495,
+   "lng": 77.089
+  },
+  {
+   "id": "noida-electronic-city",
+   "name": "Noida Electronic City",
+   "lines": [
+    "Blue"
+   ],
+   "lat": 28.62,
+   "lng": 77.372
+  }
+ ],
+ "areas": [
+  {
+   "name": "Connaught Place",
+   "lat": 28.6315,
+   "lng": 77.2167
+  },
+  {
+   "name": "Hauz Khas Village",
+   "lat": 28.5535,
+   "lng": 77.1946
+  },
+  {
+   "name": "Saket / Select Citywalk",
+   "lat": 28.5285,
+   "lng": 77.219
+  },
+  {
+   "name": "Rohini",
+   "lat": 28.738,
+   "lng": 77.082
+  },
+  {
+   "name": "North Campus (DU)",
+   "lat": 28.689,
+   "lng": 77.21
+  },
+  {
+   "name": "South Campus (DU)",
+   "lat": 28.589,
+   "lng": 77.165
+  },
+  {
+   "name": "Dwarka",
+   "lat": 28.5823,
+   "lng": 77.05
+  },
+  {
+   "name": "Noida Sector 18",
+   "lat": 28.57,
+   "lng": 77.326
+  },
+  {
+   "name": "Gurgaon Cyber Hub",
+   "lat": 28.495,
+   "lng": 77.089
+  },
+  {
+   "name": "Lajpat Nagar",
+   "lat": 28.568,
+   "lng": 77.243
+  },
+  {
+   "name": "Karol Bagh",
+   "lat": 28.651,
+   "lng": 77.19
+  },
+  {
+   "name": "Pragati Maidan / Bharat Mandapam",
+   "lat": 28.618,
+   "lng": 77.243
+  },
+  {
+   "name": "Jawaharlal Nehru Stadium",
+   "lat": 28.583,
+   "lng": 77.234
+  },
+  {
+   "name": "Indira Gandhi Arena",
+   "lat": 28.629,
+   "lng": 77.247
+  },
+  {
+   "name": "Nehru Place",
+   "lat": 28.548,
+   "lng": 77.251
+  },
+  {
+   "name": "Greater Kailash",
+   "lat": 28.548,
+   "lng": 77.238
+  },
+  {
+   "name": "Mehrauli / Qutub",
+   "lat": 28.5245,
+   "lng": 77.1855
+  },
+  {
+   "name": "Chandni Chowk / Old Delhi",
+   "lat": 28.656,
+   "lng": 77.23
+  },
+  {
+   "name": "Aerocity",
+   "lat": 28.548,
+   "lng": 77.121
+  },
+  {
+   "name": "Vasant Kunj",
+   "lat": 28.52,
+   "lng": 77.158
+  },
+  {
+   "name": "Janakpuri",
+   "lat": 28.629,
+   "lng": 77.084
+  },
+  {
+   "name": "Faridabad",
+   "lat": 28.4089,
+   "lng": 77.3178
+  },
+  {
+   "name": "Ghaziabad (Vaishali)",
+   "lat": 28.65,
+   "lng": 77.34
+  },
+  {
+   "name": "Shahdara",
+   "lat": 28.673,
+   "lng": 77.289
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: sangam
+    runtime: python
+    plan: free
+    buildCommand: "echo no build step"
+    startCommand: python server/app.py
+    envVars:
+      - key: HOST
+        value: 0.0.0.0
+      - key: COOKIE_SECURE
+        value: "true"
+      - key: SHOW_DEMO_DATA
+        value: "true"
