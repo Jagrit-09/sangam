@@ -2,6 +2,19 @@
 
 Sangam is a web app for people in Delhi NCR who want to go to college fests, small gigs and concerts but don't want to go alone. You can find an event, see who else is going, match with them, chat, and plan the trip there. On the day, a live map of the venue shows what the crowd is reporting.
 
+| | |
+|---|---|
+| **Live demo** | https://sangam-ohem.onrender.com |
+| **Source code** | https://github.com/Jagrit-09/sangam |
+
+The demo runs on free hosting, so the first load after it has been idle can take about a minute.
+
+<!-- After you add screenshots to a docs/ folder, delete this line and the closing arrow line below.
+![Events page](docs/home.png)
+![Event page with the getting-there estimates](docs/event.png)
+![Live ground map](docs/map.png)
+-->
+
 ## Features
 
 - **Events:** browse and search upcoming college fests, gigs and concerts. Anyone with an account can post one, pinning the venue on a map.
@@ -50,7 +63,7 @@ A few decisions worth explaining:
 You need Python 3.9 or newer.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/sangam.git
+git clone https://github.com/Jagrit-09/sangam.git
 cd sangam
 python server/app.py
 ```
@@ -64,6 +77,16 @@ Run the tests with:
 ```bash
 python -m unittest discover -s tests -v
 ```
+
+## Deploy
+
+The repo includes a `render.yaml`, so it can be deployed on [Render](https://render.com) as a Blueprint:
+
+1. Push the repo to GitHub.
+2. On Render choose **New, then Blueprint**, select the repo, give it a name and click **Deploy Blueprint**.
+3. When the build finishes, Render shows the public URL.
+
+The hosted version needs `HOST=0.0.0.0` and `COOKIE_SECURE=true`, which `render.yaml` already sets. On Render's free plan the disk is temporary, so accounts and chats reset when the service restarts. Sample events always reappear.
 
 ## Configuration
 
